@@ -34,7 +34,7 @@ layers:
   - C
   - V
   - B
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:keyboard-space$$
   - $$mdi:arrow-down-bold$$
   - N
   - M
